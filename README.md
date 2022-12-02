@@ -6,3 +6,11 @@
 - Mezclar todos los ingredientes
 - Amasar y darle vueltas en el aire
 - Reservar la masa
+- Poner la pizza en la paleta de madera
+- Abrir la puerta del horno
+- Poner la pizza dentro del horno en el centro
+- Esperar el tiempo de cocción y sacar la pizza
+- Tomar la masa resultante
+- Añadir los ingredientes necesarios
+- Decorar pizza
+- Empacar la pizza
